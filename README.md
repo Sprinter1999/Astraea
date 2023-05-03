@@ -1,4 +1,4 @@
 # Astraea
-Unofficial codes of TPDS'21 paper: [Self-Balancing Federated Learning With Global Imbalanced Data in Mobile Systems](https://ieeexplore.ieee.org/abstract/document/9141436?casa_token=szXSLFm7XRwAAAAA:fyPGSt7IqAhX38AfdIUl8V_sMNFZQrHWwT3FUmPJk3gTSpD_NXMkias5FgCuLQYpEo3w-M3GKFA), re-implemented on November, 2020.
+Unofficial codes of TPDS'21 paper: [Self-Balancing Federated Learning With Global Imbalanced Data in Mobile Systems](https://scholar.google.com/scholar?cluster=9626415652765026586&hl=zh-CN&as_sdt=0,5), re-implemented on November, 2020.
 
 `Fork` & `Pull-Request` is welcomed.
